@@ -241,7 +241,7 @@ class Button extends \yii\bootstrap5\Button
                 unset($this->options['aria-disabled']);
             }
         }
-        
+
         return $this;
     }
 
